@@ -60,6 +60,11 @@ the module. If the modules were not purchased directly from
 `MuK IT <https://www.mukit.at/>`_ please contact our support (support@mukit.at)
 with a confirmation of purchase to receive the corresponding access data.
 
+**Miscellaneous**
+
+Install module `web_responsive` to keep search active and visible
+XCG remove the duplicated search in the apps menu.
+
 Upgrade
 ============
 
