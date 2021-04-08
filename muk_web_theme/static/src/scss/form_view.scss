@@ -21,6 +21,12 @@
 **********************************************************************************/
 
 .o_form_view {
+
+    // All form labels must be written on one line.
+    .o_form_label {
+        white-space: nowrap;
+    }
+
     .o_form_sheet_bg {
         background: $o-webclient-background-color;
         border-bottom: 1px solid gray('300');

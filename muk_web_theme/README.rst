@@ -65,6 +65,8 @@ with a confirmation of purchase to receive the corresponding access data.
 Install module `web_responsive` to keep search active and visible
 XCG remove the duplicated search in the apps menu.
 
+All form labels are set to be written on one line.
+
 Upgrade
 ============
 
