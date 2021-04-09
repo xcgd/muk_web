@@ -67,6 +67,9 @@ XCG remove the duplicated search in the apps menu.
 
 All form labels are set to be written on one line.
 
+In the form views, the use of the 'oe_title' class avoids to set the field width
+as the whole screen one, contrarily to what is defined in the original theme.
+
 Upgrade
 ============
 
